@@ -11,7 +11,7 @@ This is the official code for the paper "**From Static to Dynamic: Exploring Sel
 
 ## 🚩 Checkpoints
 
-| Model | Backbone | Dataset | Epoch | $J\&F_m$ | mIoU | PCK@0.1 | Download |
+| Model | Backbone | Dataset | Epoch | $J\\&F_m$ | mIoU | PCK@0.1 | Download |
 | -------- | -------- | ----- | ---------------- | ---- | ------- | -------- | -------- |
 | MAE | ViT-B/16 | INet | 800 | 52.4 | 29.3 | 41.6 | [link](https://huggingface.co/yafeng19/Co-Settle/tree/main/ckpts/base/MAE_INet_vitb16_800ep) |
 | MAE **+ Ours**| ViT-B/16 | K400 | +5 | **59.6** | **33.8** | **48.4** | [link](https://huggingface.co/yafeng19/Co-Settle/tree/main/ckpts/ours/mae%2Bours) |
