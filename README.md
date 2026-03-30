@@ -1,7 +1,7 @@
 # Co-Settle
 This is the official code for the paper "**From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning**" accepted by Conference on Computer Vision and Pattern Recognition (CVPR 2026). 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?style=flat)]() [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://github.com/yafeng19/Co-Settle) [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/yafeng19/Co-Settle) [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://github.com/yafeng19/Co-Settle)
+[![paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?style=flat)](https://arxiv.org/abs/2603.26597) [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://github.com/yafeng19/Co-Settle) [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/yafeng19/Co-Settle) [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://github.com/yafeng19/Co-Settle)
 
 **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning**
 
@@ -132,7 +132,15 @@ bash scripts/cal_metric_ours.sh
 If you find this repository useful in your research, please cite the following papers:
 
 ```
-
+@misc{liu2026staticdynamicexploringselfsupervised,
+      title={From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning}, 
+      author={Yang Liu and Qianqian Xu and Peisong Wen and Siran Dai and Xilin Zhao and Qingming Huang},
+      year={2026},
+      eprint={2603.26597},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.26597}, 
+}
 ```
 
 ## 📧 Contact us
